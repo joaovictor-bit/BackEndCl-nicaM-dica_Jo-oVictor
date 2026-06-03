@@ -2,7 +2,7 @@
 Projeto backend desenvolvido com Node.js
 Prisma ORM e MySQL/MariaDB
 
-# # Funcionalidades
+## Funcionalidades
 - Cadastro de usuários
 - Cadastro de pacientes
 - Cadastro de especialidade
@@ -11,7 +11,7 @@ Prisma ORM e MySQL/MariaDB
 - Cancelamento de consultas
 - Finalização de consultas
 
-# # Tecnologias utilizadas
+## Tecnologias utilizadas
 - Node.js
 - Express
 - Prisma ORM
